@@ -182,7 +182,7 @@ according to the pin configuration.
 Add images or videos here:
 
 ```md
-![Robot](./images/robot.jpg)
+![Robot](hardware.jpeg)
 ```
 
 ---
