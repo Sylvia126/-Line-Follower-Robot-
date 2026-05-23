@@ -177,16 +177,6 @@ according to the pin configuration.
 
 ---
 
-# 📸 Robot Preview
-
-Add images or videos here:
-
-```md
-![Robot](hardware.jpeg)
-```
-
----
-
 # 🔍 Serial Monitor Debugging
 
 The robot prints sensor readings to the Serial Monitor:
